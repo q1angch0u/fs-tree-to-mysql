@@ -1,0 +1,11 @@
+{
+  "database": {
+    "name": "tree",
+    "password": "",
+    "user": "root",
+    "type": "mysql",
+    "host": "192.168.199.140",
+    "port": "4000",
+    "table_prefix": ""
+  }
+}
